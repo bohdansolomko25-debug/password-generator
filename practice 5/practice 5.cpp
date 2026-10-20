@@ -6,6 +6,7 @@
 #include <windows.h>
 
 using namespace std;
+// Password Generator - practical work
 
 // Функція №1 — генерація пароля
 string generatePassword(int length)

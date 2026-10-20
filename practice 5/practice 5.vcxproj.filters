@@ -18,5 +18,8 @@
     <ClCompile Include="practice 5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include=".gitignore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
